@@ -17,7 +17,9 @@ class ViewController: UIViewController {
     
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let randomColor = changeColor()
+        let anotherRandomColor = changeColor()
         view.backgroundColor = randomColor
+        sender.backgroundColor = anotherRandomColor
 
     }
     func changeColor() -> UIColor{

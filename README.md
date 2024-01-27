@@ -2,7 +2,7 @@
 
 Submitted by: **Dawit Tekeste**
 
-**PreWork** is an app that... [TODO] 
+**PreWork** is an app that shows basic infor about me *Dawit Tekeste* and has a button that changes the background color of the app and button itself
 
 Time spent: **0.5** hours spent in total
 
